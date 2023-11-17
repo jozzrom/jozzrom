@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jocelyn Romano</h1>
 <h3 align="center">Enthusiastic Data Scientist with a Biomedical Engineering background in Mexico.</h3>
+<img align=""right> alt="Coding" width="400" src="https://dribbble.com/shots/14523057-woman-with-laptop">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jozzrom&label=Profile%20views&color=0e75b6&style=flat" alt="jozzrom" /> </p>
 
