@@ -9,7 +9,7 @@
   
 |           About me                  |                                   |
 |----------------------------------------------------|-----------------------------------|
-| 🌱 I’m currently learning **Azure, AWS, Google Clouds**<br> 🤝 I’m looking for help with **c**<br> 📫 How to reach me **e**<br>  🔭 I’m currently working on **a**<br> 👯 I’m looking to collaborate on **b**<br> 💬 Ask me about **d**<br> ⚡ Fun fact **I think I'm funny**                 | <img src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif" alt="Imagen" width="300"/><br><br>-         |
+| 🌎 I’m from... **Mexico** <br> 👷🏻‍♀️ I have a background on... **Biomedical Engineering.** <br> 📊 I'm a... **Data scientist** <br> 👅 I have an ... **IELTS B2 level but working in getting a C1** <br> 🩷 Fun fact...  **I LOVE swimming** <br> 🔎 I'm Currently looking to... **be part of a company where I can apply my knowledge.** <br>                 | <img src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif" alt="Imagen" width="300"/><br><br>-         |
 
 </div>
 
