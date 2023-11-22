@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Jocelyn Romano</h1>
-<h3 align="center">Enthusiastic Data Scientist with a Biomedical Engineering background in Mexico.</h3>
+<h3 align="center">Amazing Data Scientist with a Biomedical Engineering background.</h3>
 
 <div align="center">
   
 |           About me                  |                                   |
 |----------------------------------------------------|-----------------------------------|
-| 🌎 I’m from... **Mexico** <br> 👷🏻‍♀️ I have a background on... **Biomedical Engineering.** <br> 📊 I'm a... **Data scientist** <br> 👅 I have an ... **IELTS B2 level but working in getting a C1** <br> 🩷 Fun fact...  **I LOVE swimming** <br> 🔎 I'm Currently looking to... **be part of a company where I can apply my knowledge.** <br>                 | <img src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif" alt="Imagen" width="300"/><br><br>-         |
+| 🌎 I’m from... **Mexico** <br> 👷🏻‍♀️ I know... **Python, SQL, Power BI and more...** <br> 📊 I'm currently learning... **AWS, GC and Azure** <br> 👅 I have an ... **IELTS B2 level but working in getting a C1** <br> 🩷 Fun fact...  **I LOVE swimming** <br> 🔎 I'm Currently looking to... **be part of a company where I can apply my knowledge.** <br>                 | <img src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif" alt="Imagen" width="300"/><br><br>-         |
 
 </div>
 
